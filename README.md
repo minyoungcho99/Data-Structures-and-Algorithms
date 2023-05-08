@@ -1,11 +1,11 @@
 # Data-Structures-and-Algorithms
 
-## Programming Languages
+### Programming Languages
 * Java
 * C
 * Assembly
 
-## Topics
+### Topics
 * ArrayLists
 * Circular Singly LinkedLists
 * Stacks and Queues (Array, LinkedList backed)
